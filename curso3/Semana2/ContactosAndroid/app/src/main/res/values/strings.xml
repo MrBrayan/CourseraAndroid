@@ -1,0 +1,32 @@
+<resources>
+    <!-- Textos de la actividad Main -->
+    <string name="app_name">Contactos Android</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="fecha1">Fecha Nacimiento</string>
+    <string name="telefono1">Telefono</string>
+    <string name="email1">Email</string>
+    <string name="descripcion1">Descripcion Contacto</string>
+    <!-- Texto de los botones -->
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar Datos</string>
+    <!-- Textos de la actividad Contacto -->
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="nombre_muestra">Nombres</string>
+    <string name="fecha2">Fecha Nacimiento:</string>
+    <string name="telefono2">Tel.</string>
+    <string name="email2">Email:</string>
+    <string name="descripcion2">Descripcion:</string>
+    <string name="fecha_muestra">12/09/1990</string>
+    <string name="telefono_muestra">3223434856</string>
+    <string name="email_muestra">correodemuestra@gmail.com</string>
+    <string name="descripcion_muestra">Descripcion del contacto de muestra.</string>
+    <!-- Variables usadas para el paso de parametros -->
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <!-- Textos agregados al SnackBar -->
+    <string name="pregVolver">¿Desea volver y editar los datos del contacto?</string>
+    <string name="volver"> Volver</string>
+</resources>
