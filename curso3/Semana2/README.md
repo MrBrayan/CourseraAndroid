@@ -1,4 +1,4 @@
-# Trabajo realizado en la semana 1.
+# Trabajo realizado en la semana 2.
 
 Formulario de contacto donde se solicita al usuario los siguientes datos:
 
