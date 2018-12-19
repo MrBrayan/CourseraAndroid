@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
                 int agno = calendar.get(Calendar.YEAR);
                 int mes = calendar.get(Calendar.MONTH);
                 int dia = calendar.get(Calendar.DAY_OF_MONTH);
-
                 DatePickerDialog dialogo = new DatePickerDialog(
                         MainActivity.this,
                         android.R.style.Theme_Holo_Light_Dialog_MinWidth,
@@ -64,7 +63,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
-
         mDateSetListener = new DatePickerDialog.OnDateSetListener() {
             @Override
             public void onDateSet(DatePicker view, int agno, int mes, int dia) {
